@@ -1,0 +1,23 @@
+
+.bg-black {
+  background-color: #222;
+  
+}
+
+.w-icon {
+  width: 140px;
+}
+.input-border{
+  border: 1px solid #ffffffad;
+
+}
+
+.profile-img{
+  width:3rem;
+}
+@media screen and (min-width: 770px) {
+  .input-border{
+   width: 31rem;
+  
+  }
+}
